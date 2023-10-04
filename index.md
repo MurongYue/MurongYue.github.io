@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at George Mason University(GMU) where I am luckily working with Prof. [Ziyu Yao](https://ziyuyao.org/). Prior to my journey at GMU, I earned a master’s degree in from the University of Southern California and a bachelor’s degree from Beijing Jiaotong University. I have spent time working at Alibaba Group as a machine learning engineer.
 
-## Research Interests
+ 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research goal is to construct practical, task-oriented interactive AI systems that are both reliable and efficient. Currently, my focus revolves around designing efficient, robust and affordable LLM agents of tackling complex reasoning tasks or engaging in human skill training. Furthermore, I'm interested in creating a novel reasoning benchmark for Augmented Language Models (ALM).
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** Check out our new preprint for cost-efficient LLM cascades.
+- **[Oct. 2023]** Our paper about an open-source platform for ALM is accepted to EMNLP 2023 demo!
+- **[Apr. 2023]** GMU will organize [MASC-SLL 2023](https://www.mascsll.org/), an annual NLP event in the Mid-Atlantic area! I will be serving as a Colloquium Organizer.
 
 {% include_relative _includes/publications.md %}
 
