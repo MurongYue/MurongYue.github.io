@@ -1,5 +1,12 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Organizing Committee</h4>
+  <li><a href="https://www.mascsll.org/"><autocolor>MASC-SLL 2023 - 10th Mid-Atlantic Student Colloquium on Speech, Language and Learning</autocolor></a></li>
+
+<h4 style="margin:0 10px 0;">Reviewer</h4>
+  <li><autocolor>Served as a secondary reviewer for NeurIPS’23</autocolor></a></li>
+
+
 [//]: # (<h4 style="margin:0 10px 0;">Conference Reviewers</h4>)
 
 [//]: # ()
@@ -13,7 +20,7 @@
 
 [//]: # (</ul>)
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+[//]: # (<h4 style="margin:0 10px 0;">Journal Reviewers</h4>)
 
 [//]: # (<ul style="margin:0 0 20px;">)
 
