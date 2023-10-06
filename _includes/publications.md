@@ -25,21 +25,11 @@
 
     <div class="author"><strong>Murong Yue</strong>, Jie Zhao, Min Zhang, Liang Du, Ziyu Yao</div>
 
-[//]: # (    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>&#40;CVPR&#41;</strong>, 2020.</em></div>)
-
     <div class="links">
 
       <a href="https://arxiv.org/pdf/2310.03094.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 
       <a href="https://github.com/MurongYue/LLM_MoT_cascade" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-
-[//]: # (      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>)
-
-[//]: # ()
-[//]: # (      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>)
-
-[//]: # ()
-[//]: # (      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>)
 
     </div>
 
