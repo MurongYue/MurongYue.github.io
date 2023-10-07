@@ -55,7 +55,7 @@
 
     <div class="author">Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, <strong>Murong Yue</strong>,  Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu</div>
 
-    <div class="periodical"><em>The 2023 Conference on Empirical Methods in Natural Language Processing<strong>(ENMLP'23')</strong>, 2020.</em></div>
+    <div class="periodical"><em>The 2023 Conference on Empirical Methods in Natural Language Processing<strong>(ENMLP'23')</strong>, 2023.</em></div>
 
     <div class="links">
 
