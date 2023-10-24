@@ -12,11 +12,13 @@ My research goal is to construct practical, task-oriented interactive AI systems
 
 
 ## News
-
-- **[Oct. 2023]** Check out our new preprint for cost-efficient LLM cascades.
-- **[Oct. 2023]** Our paper about an open-source platform for ALM is accepted to EMNLP 2023 demo.
+- **[Oct. 2023]** Give an invited talks about the cost-efficient LLM cascade at Microsoft Semantic Machines. Thanks for the invitation!
+- **[Oct. 2023]** Check out our new preprint for cost-efficient LLM cascades!
+- **[Oct. 2023]** Our paper about an open-source platform for ALM is accepted to EMNLP 2023 demo. Thanks for our collaborators!
 - **[Apr. 2023]** GMU will organize [MASC-SLL 2023](https://www.mascsll.org/), an annual NLP event in the Mid-Atlantic area! I will be serving as a Colloquium Organizer.
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/talk.md %}
