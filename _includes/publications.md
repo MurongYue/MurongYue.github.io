@@ -52,7 +52,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
 
-    <div class="title"><a href="https://arxiv.org/abs/2310.03094">Cam LLM Find The Green Circle? Investigation And Human-guided Tool Manipulation For Compositional Generalization</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2312.07763.pdf">Cam LLM Find The Green Circle? Investigation And Human-guided Tool Manipulation For Compositional Generalization</a></div>
 
     <div class="author">Min Zhang, Jianfeng He, Shuo Lei, <strong>Murong Yue</strong>, Linhan Wang, Chang-Tien Lu</div>
     <div class="periodical"><em>2024 IEEE International Conference on Acoustics, Speech, and Signal Processing<strong>(ICASSP'24')</strong>, 2024.</em></div>
