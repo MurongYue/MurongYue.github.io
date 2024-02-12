@@ -8,10 +8,12 @@ I am a Ph.D. student at George Mason University(GMU) where I am luckily working 
 
  
 
-My research goal is to construct practical, task-oriented interactive AI systems that are both reliable and efficient. Currently, my focus revolves around designing efficient, robust and affordable LLM agents of tackling complex reasoning tasks or engaging in human skill training. Furthermore, I'm interested in creating a novel reasoning benchmark for Augmented Language Models (ALM).
+My research goal is to construct reliable and efficient interactive LLM systems. Currently, my focus revolves around designing efficient, safe and affordable LLM agents of tackling complex reasoning tasks. Furthermore, I'm interested in creating a novel reasoning benchmark for Augmented Language Models (ALM).
 
 
 ## News
+- **[Jan. 2024]** One paper is accepted by ICLR 2024.
+- **[Dec. 2023]** One paper is accepted by ICASSP 2024.
 - **[Oct. 2023]** Give an invited talks about the cost-efficient LLM cascade at Microsoft Semantic Machines. Thanks for the invitation!
 - **[Oct. 2023]** Check out our new preprint for cost-efficient LLM cascades!
 - **[Oct. 2023]** Our paper about an open-source platform for ALM is accepted to EMNLP 2023 demo. Thanks for our collaborators!
