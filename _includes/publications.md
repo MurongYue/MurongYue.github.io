@@ -25,13 +25,13 @@
 
     <div class="author"><strong>Murong Yue</strong>, Wijdane Mifdal, Yixuan Zhang, Jennifer Suh, Ziyu Yao</div>
 
-[//]: # (    <div class="periodical"><em>The 2024 Conference on International Conference on Learning Representations<strong>&#40;ICLR'24'&#41;</strong>, 2024.</em></div>)
+    <div class="periodical"><em>Preprint</em></div>
 
     <div class="links">
 
       <a href="https://arxiv.org/pdf/2404.06711.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 
-[//]: # (      <a href="https://github.com/MurongYue/LLM_MoT_cascade" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>)
+      <a href="https://github.com/MurongYue" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
     </div>
 
