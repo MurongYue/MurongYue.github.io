@@ -12,6 +12,41 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
 
+    <img src="assets/img/dynamic reasoning.pdf" class="teaser img-fluid z-depth-1">
+
+    <abbr class="badge">Preprint</abbr>
+
+  </div>
+
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+
+    <div class="title"><a href="https://arxiv.org/abs/2410.03864">DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search</a></div>
+
+    <div class="author"><strong>Murong Yue</strong>, Wenlin Yao, Haitao Mi, Dian Yu, Ziyu Yao, Dong Yu</div>
+
+    <div class="periodical"><em>Preprint</em></div>
+
+    <div class="links">
+
+      <a href="https://arxiv.org/abs/2410.03864" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+
+      <a href="https://github.com/MurongYue/DOTS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+<div class="pub-row">
+
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+
     <img src="assets/img/MathVC.png" class="teaser img-fluid z-depth-1">
 
     <abbr class="badge">Preprint</abbr>
