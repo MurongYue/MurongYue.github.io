@@ -4,10 +4,7 @@
   <li><a href="https://www.mascsll.org/"><autocolor>MASC-SLL 2023 - 10th Mid-Atlantic Student Colloquium on Speech, Language and Learning</autocolor></a></li>
 
 <h4 style="margin:0 10px 0;">Reviewer</h4>
-  <li><autocolor>NeurIPS’23,NeurIPS’24</autocolor></li>
-  <li><autocolor>EMNLP'24</autocolor></li>
-  <li><autocolor>ICLR'25</autocolor></li>
-  <li><autocolor>AISTATS'25</autocolor></li>
+  <li><autocolor>NeurIPS’23, NeurIPS’24, EMNLP'24, ICLR'25, AISTATS'25</autocolor></li>
 
 
 [//]: # (<h4 style="margin:0 10px 0;">Conference Reviewers</h4>)
