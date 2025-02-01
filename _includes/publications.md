@@ -25,7 +25,7 @@
 
     <div class="author"><strong>Murong Yue</strong>, Wenlin Yao, Haitao Mi, Dian Yu, Ziyu Yao, Dong Yu</div>
 
-    <div class="periodical"><em>The 2025 Conference on International Conference on Learning Representations<strong>(ICLR'25')</em></div>
+    <div class="periodical"><em>The 2025 Conference on International Conference on Learning Representations<strong>(ICLR'25')</strong>, 2025.</em></div>
 
     <div class="links">
 
