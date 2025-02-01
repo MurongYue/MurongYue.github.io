@@ -4,17 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at George Mason University(GMU) where I am luckily working with Prof. [Ziyu Yao](https://ziyuyao.org/). Prior to my journey at GMU, I earned a master’s degree from the University of Southern California and a bachelor’s degree from Beijing Jiaotong University. I have spent time working at Alibaba as a machine learning engineer.
+I am a Ph.D. student at George Mason University(GMU) where I am luckily working with Prof. [Ziyu Yao](https://ziyuyao.org/). Prior to my journey at GMU, I earned a master’s degree from the University of Southern California and a bachelor’s degree from Beijing Jiaotong University.
 
-
-My research goal is to construct reliable and efficient interactive LLM systems. Currently, my focus revolves around designing efficient, safe and affordable LLM agents of tackling complex reasoning tasks.
-
+My research goal is to construct reliable and efficient interactive LLM agent system. Currently, my focus revolves around designing efficient, safe and affordable LLM agents for tackling complex reasoning tasks.
 
 ## News
-- **[Oct. 2024]** Check out our new preprint paper about the dynamic reasoning workflow!
-- **[May. 2024]** I will start my summer internship in Tencent, Seattle.
+- **[Jan. 2025]** One paper about agentic reasoning is accepted to ICLR 2025.
+
+[//]: # (- **[Oct. 2024]** Check out our new preprint paper about the dynamic reasoning workflow.)
+
+[//]: # (- **[May. 2024]** I will start my summer internship in Tencent, Seattle.)
 - **[Apr. 2024]** I am awarded the Outstanding PhD Student Award by GMU, CS department.
-- **[Apr. 2024]** Check out our new preprint paper about the educational agent.
+- **[Apr. 2024]** Check out our new preprint paper about the educational agent. (Invited Presentation at Wolfram Research LLM Agent Colloquium)
 - **[Mar. 2024]** Receive Recognition for Service on Hangs-On Generative AI Tutorial from GMU CEC department.
 - **[Jan. 2024]** One paper is accepted by ICLR 2024.
 - **[Dec. 2023]** One paper is accepted by ICASSP 2024.
