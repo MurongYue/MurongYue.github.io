@@ -1,12 +1,27 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+<style>
+.conf-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-right: 8px;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #495057;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+</style>
+
 <div class="publications">
 <ol class="bibliography">
 
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>(Preprint)</strong> <a href="https://arxiv.org/pdf/2503.15551">Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack</a></div>
+    <div class="title"><span class="conf-badge">Preprint</span> <a href="https://arxiv.org/pdf/2503.15551">Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack</a></div>
     <div class="author"><strong>Murong Yue</strong>, Ziyu Yao</div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2503.15551" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -16,7 +31,7 @@
 
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>(ICLR 2025)</strong> <a href="https://arxiv.org/abs/2410.03864">DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search</a></div>
+    <div class="title"><span class="conf-badge">ICLR 2025</span> <a href="https://arxiv.org/abs/2410.03864">DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search</a></div>
     <div class="author"><strong>Murong Yue</strong>, Wenlin Yao, Haitao Mi, Dian Yu, Ziyu Yao, Dong Yu</div>
     <!-- <div class="links">
       <a href="https://arxiv.org/abs/2410.03864" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -27,7 +42,7 @@
 
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>(AAAI Workshop AI4EDU 2025)</strong> <a href="https://arxiv.org/abs/2404.06711">MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education</a></div>
+    <div class="title"><span class="conf-badge">AAAI Workshop 2025</span> <a href="https://arxiv.org/abs/2404.06711">MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education</a></div>
     <div class="author"><strong>Murong Yue</strong>, Wenhan Lyu, Wijdane Mifdal, Jennifer Suh, Yixuan Zhang, Ziyu Yao</div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2404.06711.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -38,7 +53,7 @@
 
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>(ICLR 2024)</strong> <a href="https://arxiv.org/abs/2310.03094">Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning</a></div>
+    <div class="title"><span class="conf-badge">ICLR 2024</span> <a href="https://arxiv.org/abs/2310.03094">Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning</a></div>
     <div class="author"><strong>Murong Yue</strong>, Jie Zhao, Min Zhang, Liang Du, Ziyu Yao</div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2310.03094.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -49,7 +64,7 @@
 
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>(ICASSP 2024)</strong> <a href="https://arxiv.org/pdf/2312.07763.pdf">Cam LLM Find The Green Circle? Investigation And Human-guided Tool Manipulation For Compositional Generalization</a></div>
+    <div class="title"><span class="conf-badge">ICASSP 2024</span> <a href="https://arxiv.org/pdf/2312.07763.pdf">Cam LLM Find The Green Circle? Investigation And Human-guided Tool Manipulation For Compositional Generalization</a></div>
     <div class="author">Min Zhang, Jianfeng He, Shuo Lei, <strong>Murong Yue</strong>, Linhan Wang, Chang-Tien Lu</div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2312.07763.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -59,7 +74,7 @@
 
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><strong>(EMNLP 2023 Demo)</strong> <a href="https://arxiv.org/abs/2308.04030">Gentopia: A Collaborative Platform for Tool-Augmented LLMs</a></div>
+    <div class="title"><span class="conf-badge">EMNLP 2023</span> <a href="https://arxiv.org/abs/2308.04030">Gentopia: A Collaborative Platform for Tool-Augmented LLMs</a></div>
     <div class="author">Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, <strong>Murong Yue</strong>, Zhiyuan Peng, Yuchen Liu, Ziyu Yao, Dongkuan Xu</div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2308.04030.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
