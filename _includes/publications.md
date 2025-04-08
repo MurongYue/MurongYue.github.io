@@ -3,15 +3,52 @@
 <style>
 .conf-badge {
   display: inline-block;
-  padding: 2px 8px;
-  margin-right: 8px;
+  padding: 3px 10px;
+  margin-right: 10px;
   border-radius: 4px;
-  background-color: #f8f9fa;
-  border: 1px solid #e9ecef;
-  font-size: 0.9em;
-  font-weight: 500;
-  color: #495057;
+  font-size: 0.85em;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  background-color: #f5f5f5;
+  color: #333;
+  border: 1px solid #ddd;
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* Preprint badge */
+.conf-badge:contains("Preprint") {
+  background-color: #e3f2fd;
+  color: #1976d2;
+  border: 1px solid #90caf9;
+}
+
+/* ICLR badge */
+.conf-badge:contains("ICLR") {
+  background-color: #f3e5f5;
+  color: #7b1fa2;
+  border: 1px solid #ce93d8;
+}
+
+/* AAAI badge */
+.conf-badge:contains("AAAI") {
+  background-color: #fff3e0;
+  color: #e65100;
+  border: 1px solid #ffb74d;
+}
+
+/* ICASSP badge */
+.conf-badge:contains("ICASSP") {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #81c784;
+}
+
+/* EMNLP badge */
+.conf-badge:contains("EMNLP") {
+  background-color: #fce4ec;
+  color: #c2185b;
+  border: 1px solid #f48fb1;
 }
 </style>
 
