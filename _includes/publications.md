@@ -58,6 +58,16 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><span class="conf-badge">Preprint</span> <a href="https://arxiv.org/pdf/2503.15551">Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following</a></div>
+    <div class="author">Sai Adith Senthil Kumar, Hao Yan, Saipavan Perepa,<strong>Murong Yue</strong>, Ziyu Yao</div>
+    <!-- <div class="links">
+      <a href="https://arxiv.org/pdf/2503.15551" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div> -->
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">Preprint</span> <a href="https://arxiv.org/pdf/2503.15551">Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack</a></div>
     <div class="author"><strong>Murong Yue</strong>, Ziyu Yao</div>
     <!-- <div class="links">

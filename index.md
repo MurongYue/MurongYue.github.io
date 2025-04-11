@@ -15,15 +15,15 @@ My research interests include:
 
 
 
-
 ## News
-- **[Feb. 2025]** Check out our new preprint about the [LLM Batch Prompting Attack](https://arxiv.org/pdf/2503.15551).
+- **[Apr. 2025]** Check out our new preprint about the [LLM batch prompting attack](https://arxiv.org/pdf/2503.15551) and the [LLM persona simulation](https://arxiv.org/pdf/2504.06460).
+- **[Feb. 2025]** One paper is accepted to AAAI 2025 AI4EDU workshop.
 - **[Jan. 2025]** One paper is accepted to ICLR 2025.
 - **[Apr. 2024]** I am awarded the Outstanding PhD Student Award by GMU, CS department.
-- **[Apr. 2024]** Check out our new preprint paper about the educational agent. (Invited Presentation at Wolfram Research LLM Agent Colloquium)
+<!-- - **[Apr. 2024]** Check out our new preprint paper about the educational agent. (Invited Presentation at Wolfram Research LLM Agent Colloquium) -->
 - **[Jan. 2024]** One paper is accepted to ICLR 2024.
 - **[Dec. 2023]** One paper is accepted to ICASSP 2024.
-- **[Oct. 2023]** Give an invited talks about the cost-efficient LLM cascade at Microsoft Semantic Machines.
+<!-- - **[Oct. 2023]** Give an invited talks about the cost-efficient LLM cascade at Microsoft Semantic Machines. -->
 - **[Oct. 2023]** Our paper about an open-source platform for ALM is accepted to EMNLP 2023 demo.
 - **[Apr. 2023]** GMU will organize [MASC-SLL 2023](https://www.mascsll.org/), an annual NLP event in the Mid-Atlantic area! I will be serving as a Colloquium Organizer.
 
