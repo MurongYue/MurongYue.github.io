@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Hi, my name is Murong Yue (岳牧荣). I am a Ph.D. student at George Mason University (GMU), where I am luckily working with Prof. [Ziyu Yao](https://ziyuyao.org/). I earned a master’s degree from the University of Southern California (USC) and a bachelor’s degree from Beijing Jiaotong University (BJTU). Before starting my Ph.D., I also worked as a Machine Learning Engineer at Alibaba AI Labs.
+Hi, my name is Murong Yue. I am a Ph.D. student at George Mason University (GMU), where I am luckily working with Prof. [Ziyu Yao](https://ziyuyao.org/). I earned a master’s degree from the University of Southern California (USC) and a bachelor’s degree from Beijing Jiaotong University (BJTU). Before starting my Ph.D., I also worked as a Machine Learning Engineer at Alibaba AI Labs.
 
 My research interests include:
 
