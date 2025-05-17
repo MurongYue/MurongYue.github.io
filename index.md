@@ -16,7 +16,8 @@ My research interests include:
 
 
 ## News
-- **[Apr. 2025]** Check out our new preprint about the [LLM batch prompting attack](https://arxiv.org/pdf/2503.15551) and the [LLM persona simulation](https://arxiv.org/pdf/2504.06460).
+- **[May. 2025]** One paper is accepted to ACL 2025 findings.
+- **[Apr. 2025]** Check out our new preprint about the [LLM persona simulation](https://arxiv.org/pdf/2504.06460).
 - **[Feb. 2025]** One paper is accepted to AAAI 2025 AI4EDU workshop.
 - **[Jan. 2025]** One paper is accepted to ICLR 2025.
 - **[Apr. 2024]** I am awarded the Outstanding PhD Student Award by GMU, CS department.
