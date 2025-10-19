@@ -75,7 +75,7 @@
       <a href="https://arxiv.org/pdf/2503.15551" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div> -->
   <!-- </div>
-</div> --> -->
+</div> -->
 
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -127,7 +127,7 @@
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2312.07763.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div> -->
-  </div>
+  <!-- </div>
 </div> -->
 
 <!-- <div class="pub-row">
@@ -139,7 +139,7 @@
       <a href="https://github.com/Gentopia-AI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://gentopia-ai.github.io/Gentopia-AI-Homepage/#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div> -->
-  </div>
+  <!-- </div>
 </div> -->
 
 </li>
