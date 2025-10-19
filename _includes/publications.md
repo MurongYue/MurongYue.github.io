@@ -57,6 +57,7 @@
 <div class="publications">
 <ul class="bibliography">
 
+<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">Preprint</span> <a href="https://arxiv.org/abs/2510.07768">ToolLibGen: Scalable Automatic Tool Creation and Aggregation for LLM Reasoning</a></div>
@@ -66,6 +67,8 @@
     </div> -->
   </div>
 </div>
+
+</li>
 
 <!-- <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -77,6 +80,7 @@
   </div>
 </div> -->
 
+<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">ACL 2025 Findings</span> <a href="https://arxiv.org/pdf/2503.15551">Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack</a></div>
@@ -87,6 +91,9 @@
   </div>
 </div>
 
+</li>
+
+<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">ICLR 2025</span> <a href="https://arxiv.org/abs/2410.03864">DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search</a></div>
@@ -98,6 +105,9 @@
   </div>
 </div>
 
+</li>
+
+<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">AAAI LLM4EDU 2025</span> <a href="https://arxiv.org/pdf/2404.06711?">MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education</a></div>
@@ -109,6 +119,9 @@
   </div>
 </div>
 
+</li>
+
+<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">ICLR 2024</span> <a href="https://arxiv.org/abs/2310.03094">Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning</a></div>
@@ -119,6 +132,8 @@
     </div> -->
   </div>
 </div>
+
+</li>
 
 <!-- <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -142,7 +157,5 @@
   </div>
 </div> -->
   
-<br>
-
 </ul>
 </div>
