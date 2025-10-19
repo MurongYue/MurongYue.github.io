@@ -1,7 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
-<p style="margin: 10px 0px 5px; font-size: 0.9em; color: #666;">* denotes equal contribution</p>
-
 <style>
 .conf-badge {
   display: inline-block;
@@ -55,9 +53,10 @@
 </style>
 
 <div class="publications">
-<ul class="bibliography">
+<ol class="bibliography">
 
 <li>
+
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">Preprint</span> <a href="https://arxiv.org/abs/2510.07768">ToolLibGen: Scalable Automatic Tool Creation and Aggregation for LLM Reasoning</a></div>
@@ -68,8 +67,6 @@
   </div>
 </div>
 
-</li>
-
 <!-- <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">Preprint</span> <a href="https://arxiv.org/pdf/2504.06460">Can LLMs Simulate Personas with Reversed Performance? A Benchmark for Counterfactual Instruction Following</a></div>
@@ -77,10 +74,9 @@
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2503.15551" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div> -->
-  </div>
-</div> -->
+  <!-- </div>
+</div> --> -->
 
-<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">ACL 2025 Findings</span> <a href="https://arxiv.org/pdf/2503.15551">Efficient but Vulnerable: Benchmarking and Defending LLM Batch Prompting Attack</a></div>
@@ -91,9 +87,6 @@
   </div>
 </div>
 
-</li>
-
-<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">ICLR 2025</span> <a href="https://arxiv.org/abs/2410.03864">DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search</a></div>
@@ -105,13 +98,10 @@
   </div>
 </div>
 
-</li>
-
-<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">AAAI LLM4EDU 2025</span> <a href="https://arxiv.org/pdf/2404.06711?">MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education</a></div>
-    <div class="author"><strong>Murong Yue*</strong>, Wenhan Lyu*, Jennifer Suh, Yixuan Zhang, Ziyu Yao</div>
+    <div class="author"><strong>Murong Yue*</strong>, Wenhan Lyu*, Jennifer Suh, Yixuan Zhang, Ziyu Yao (* represents equal contribution)</div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2404.06711.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/MurongYue" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -119,9 +109,6 @@
   </div>
 </div>
 
-</li>
-
-<li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><span class="conf-badge">ICLR 2024</span> <a href="https://arxiv.org/abs/2310.03094">Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning</a></div>
@@ -132,8 +119,6 @@
     </div> -->
   </div>
 </div>
-
-</li>
 
 <!-- <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -156,6 +141,10 @@
     </div> -->
   </div>
 </div> -->
+
+</li>
   
-</ul>
+<br>
+
+</ol>
 </div>
