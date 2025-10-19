@@ -5,17 +5,12 @@ layout: homepage
 ## About Me
 Hi, my name is Murong Yue. I am a Ph.D. student at George Mason University (GMU), where I am luckily working with Prof. [Ziyu Yao](https://ziyuyao.org/). I earned a master’s degree from the University of Southern California (USC) and a bachelor’s degree from Beijing Jiaotong University (BJTU). Before starting my Ph.D., I also worked as a Machine Learning Engineer at Alibaba AI Labs.
 
-My research interests include:
-
-**LLM Reasoning**: I am interested in how to *dynamically adapt* reasoning strategies based on the nature of the input problem. This includes selecting the appropriate LLM model, choosing the reasonable reasoning paradigm, and utilizing tools effectively.
-
-**Building and Evaluating LLM Agents for Interdisciplinary Applications**: I am also passionate about how to construct and evaluate LLM-based agents for emerging tasks in interdisciplinary applications. Besdies, I am also working on the evaluation in open-ended tasks.
-
-**Trustworthy LLMs**: I am also interested in uncertainty estimation and LLM jailbreaking.
+My research interests include LLM Reasoning, Building and Evaluating LLM Agents for Interdisciplinary Applications, and Trustworthy LLMs.
 
 
 
 ## News
+- **[Sep. 2025]** Check our new [preprint](https://arxiv.org/abs/2510.07768) about scalable tool making for tool-augmented reasoning.
 - **[May. 2025]** One paper is accepted to ACL 2025 findings.
 - **[Apr. 2025]** Check out our new preprint about the [LLM persona simulation](https://arxiv.org/pdf/2504.06460).
 - **[Feb. 2025]** One paper is accepted to AAAI 2025 AI4EDU workshop.
